@@ -1,3 +1,3 @@
-# 😎 Not So Awesome Cheat Sheets 😉
+# Cheat Sheets for Robotics
 
 A collection of helpful cheat sheets for the Robotics community
