@@ -26,7 +26,7 @@ A collection of helpful cheat sheets and helpful documentations for the Robotics
 ## Math
 -   [probability](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf)
 -   [statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-statistics.pdf)
--   [Ordinary Differentia Equations(ODE)] - [First Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-first-ode.pdf), [Second Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-second-ode.pdf), [Applications](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-applications.pdf)
+-   Ordinary Differentia Equations (ODE) - [First Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-first-ode.pdf), [Second Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-second-ode.pdf), [Applications](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-applications.pdf)
 -   [Linear Algebra](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/linear-algebra.pdf)
 -   [Calculus](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/calculus.pdf)
 -   [Trigonometry](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/trigonometry.pdf)
