@@ -1,6 +1,6 @@
 # Robotics AI Cheat Sheets 
 
-A collection of helpful cheat sheets and helpful documentations for the Robotics and AI community
+A collection of cheat sheets and helpful documentations for the Robotics and AI community
 
 ## Concepts
 -   [Artificial Intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/super-cheatsheet-artificial-intelligence.pdf)
