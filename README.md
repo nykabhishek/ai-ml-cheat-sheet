@@ -1,4 +1,6 @@
-# Robotics AI Cheat Sheets 
+# Awesome Cheat Sheets for AI ML and Robotics community
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of cheat sheets and helpful documentations for the Robotics and AI community
 
@@ -19,10 +21,14 @@ A list of cheat sheets and helpful documentations for the Robotics and AI commun
 ## Software Tools
 -   [C++](https://cppcheatsheet.readthedocs.io/_/downloads/en/latest/pdf/)
 -   [R](https://www.rstudio.com/resources/cheatsheets/)
--   [git](https://education.github.com/git-cheat-sheet-education.pdf)
+-   [git](https://education.github.com/git-cheat-sheet-education.pdf) | [github](https://github.com/tiimgreen/github-cheat-sheet)
 -   [matlab](https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf)
 -   [latex](https://wch.github.io/latexsheet/latexsheet.pdf)
 -   [Markdown](https://markdown-guide.readthedocs.io/en/latest/basics.html)
+-   [bash](https://devhints.io/bash)
+-   docker - [cheatsheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) | [ultimate guide](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+
+
 ## Math
 -   [probability](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf)
 -   [statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-statistics.pdf)
