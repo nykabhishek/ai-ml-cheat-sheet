@@ -1,4 +1,4 @@
-# Awesome Cheat Sheets for AI ML and Robotics community
+# Awesome Cheatsheets for AI and ML community
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
