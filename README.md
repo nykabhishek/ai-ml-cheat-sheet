@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of cheat sheets and helpful documentations for the Robotics and AI community
+A list of curated cheat sheets and helpful documentations for the Robotics and AI community
 
 ## Concepts
 -   [Artificial Intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/super-cheatsheet-artificial-intelligence.pdf)
