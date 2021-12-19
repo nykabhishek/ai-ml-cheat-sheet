@@ -21,7 +21,7 @@ A list of curated cheat sheets and helpful documentations for the Robotics and A
 
 ## Software Tools
 -   [bash](https://devhints.io/bash)
--   [C]
+-   [C](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)
 -   [C++](https://cppcheatsheet.readthedocs.io/_/downloads/en/latest/pdf/)
 -   docker - [cheatsheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) | [ultimate guide](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 -   [git](https://education.github.com/git-cheat-sheet-education.pdf) | [github](https://github.com/tiimgreen/github-cheat-sheet)
@@ -29,6 +29,7 @@ A list of curated cheat sheets and helpful documentations for the Robotics and A
 -   [Markdown](https://markdown-guide.readthedocs.io/en/latest/basics.html)
 -   [matlab](https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf)
 -   [R](https://www.rstudio.com/resources/cheatsheets/)
+-   [vim](https://vimsheet.com/)
 -   vs-code - [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) | [mac-OS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) | [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
