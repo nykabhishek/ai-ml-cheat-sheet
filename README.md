@@ -12,7 +12,6 @@ A list of curated cheat sheets and helpful documentations for the Robotics and A
 
 ## Python Libraries
 -   [Python3](https://coodict.github.io/python3-in-one-pic/)
-
 -   keras - [cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) | [API docs](https://keras.io/api/)
 -   [Matplotlib](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
 -   [numpy](https://numpy.org/doc/stable/numpy-ref.pdf)
@@ -31,13 +30,12 @@ A list of curated cheat sheets and helpful documentations for the Robotics and A
 -   [matlab](https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf)
 -   [R](https://www.rstudio.com/resources/cheatsheets/)
 -   vs-code - [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) | [mac-OS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) | [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
--   
 
 
 ## Math
+-   [Calculus](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/calculus.pdf)
+-   [Linear Algebra](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/linear-algebra.pdf)
+-   Ordinary Differential Equations (ODE) - [First Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-first-ode.pdf)| [Second Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-second-ode.pdf)| [Applications](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-applications.pdf)
 -   [probability](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf)
 -   [statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-statistics.pdf)
--   Ordinary Differential Equations (ODE) - [First Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-first-ode.pdf)| [Second Order](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-second-ode.pdf)| [Applications](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/cheatsheet-applications.pdf)
--   [Linear Algebra](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/linear-algebra.pdf)
--   [Calculus](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/calculus.pdf)
 -   [Trigonometry](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/trigonometry.pdf)
