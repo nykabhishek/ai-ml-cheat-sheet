@@ -23,6 +23,7 @@ A list of curated cheat sheets and helpful documentations for the Robotics and A
 -   [bash](https://devhints.io/bash)
 -   [C](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)
 -   [C++](https://cppcheatsheet.readthedocs.io/_/downloads/en/latest/pdf/)
+-   [conda](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 -   docker - [cheatsheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) | [ultimate guide](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 -   [git](https://education.github.com/git-cheat-sheet-education.pdf) | [github](https://github.com/tiimgreen/github-cheat-sheet)
 -   [latex](https://wch.github.io/latexsheet/latexsheet.pdf)
