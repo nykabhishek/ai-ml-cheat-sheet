@@ -8,7 +8,7 @@ A list of curated cheat sheets and helpful documentations for the Robotics and A
 -   [Artificial Intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/super-cheatsheet-artificial-intelligence.pdf)
 -   [Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 -   [Data Science Tools](https://github.com/shervinea/mit-15-003-data-science-tools/blob/master/en/super-study-guide-data-science-tools.pdf)
--   [Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
+-   Machine Learning - [1](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)|[2](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
 
 ## Python Libraries
 -   [Python3](https://coodict.github.io/python3-in-one-pic/)
